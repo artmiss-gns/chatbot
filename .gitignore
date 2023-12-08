@@ -1,0 +1,7 @@
+# exclude .vscode
+.vscode
+
+# exclude __pycache__
+*__pycache__
+
+test.ipynb
